@@ -4,7 +4,7 @@ export default function News() {
   return (
     <div className="py-5 my-10 w-full">
       <h2 className="xl:text-3xl text-xl font-bold tracking-wide font-pt-serif">
-        Upcoming News and Events
+        News and Events
       </h2>
 
       <div className="space-y-6">
