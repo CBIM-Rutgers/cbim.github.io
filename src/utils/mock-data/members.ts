@@ -117,7 +117,7 @@ export const mockPeople: Person[] = [
   },
   {
     "name": "Tunyu Zhang",
-    "interest": "Explainable Medical",
+    "interest": "LLM Diffusion, Efficiency",
     "profileImage": "/images/members/Difei_Gu.jpg",
     "id": 12,
     "personalPageUrl": "https://scholar.google.com/citations?user=y3st15YAAAAJ&hl=en",
