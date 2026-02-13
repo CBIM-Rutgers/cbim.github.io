@@ -14,7 +14,7 @@ export const mockPeople: Person[] = [
   {
     "id": 1,
     "name": 'Board of Governors and Distinguished Professor of CS. Dimitris Metaxas',
-    "personalPageUrl": 'https://cs.university.edu/~schen',
+    "personalPageUrl": 'https://scholar.google.com/citations?user=a7VNhCIAAAAJ&hl=en',
     "position": 'Faculty',
     "enrollYear": 2001,
     "profileImage": 'https://deeplearn.irdta.eu/2022su/wp-content/uploads/sites/4/2021/10/Dimitris-N.-Metaxas.jpg',
