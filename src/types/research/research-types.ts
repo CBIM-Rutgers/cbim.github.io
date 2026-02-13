@@ -1,0 +1,17 @@
+export interface Paper {
+  title: string;
+  authors: string[];
+  date: string;
+  id: string;
+  link: string;
+  tags?: string[];
+  image?: string | null;
+  publisher?: string | null;
+  /** Normalized venue for filtering (e.g. ICML, CVPR, NeurIPS). */
+  venue?: string | null;
+}
+
+export interface YearGroup {
+  year: number;
+  papers: Paper[];
+}
